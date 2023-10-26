@@ -319,10 +319,10 @@
 			<version>${commons-beanutils.version}</version>
 		</dependency>
 		<dependency>
-		    <!-- Need to define version 1.3 due to conflicting versions -->
+		    <!-- Need to define version 1.6 due to conflicting versions -->
 			<groupId>commons-pool</groupId>
 			<artifactId>commons-pool</artifactId>
-			<version>1.3</version>
+			<version>1.6</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-logging</groupId>
