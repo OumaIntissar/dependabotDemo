@@ -311,7 +311,7 @@
 	<dependency>
 		<groupId>org.springframework.security</groupId>
 		<artifactId>spring-security-ldap</artifactId>
-			<version>5.1.5.RELEASE</version>
+			<version>6.2.0</version>
 	</dependency>
 
 
